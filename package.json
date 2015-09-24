@@ -1,0 +1,17 @@
+{
+  "name": "formula-text",
+  "version": "1.0.0",
+  "description": "TEXT function to format number and date output",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "devDependencies": {
+    "formula-isfunction": "^1.0.0"
+  },
+  "dependencies": {
+    "formula-constants": "^1.0.2"
+  }
+}
